@@ -81,16 +81,16 @@ EOF
 cat << EOF > /etc/banner
 <br>
 <font>ೋ˚❁ೃೀ๑۩۞۩๑ೃೀ❁ೋ˚</font><br>
-<font>┊┊┊┊ <b><font color="#ff5079">&nbsp;𝚅𝚒𝚖𝚞𝚔𝚝𝚑𝚒</font>™</b></font><br>
+<font>┊┊┊┊ <b><font color="#ff5079">&nbsp;rusiru</font>™</b></font><br>
 <font>┊┊┊✧ </font><br>
 <font>┊┊✦ <font color="#A52A2A">&nbsp;NO HACKING !!!</font></font><br>
 <font>┊✧ <font color="#8A2BE2">&nbsp;NO CARDING !!!</font></font><br>
 <font>✦ <font color="#FF7F50">&nbsp;NO TORRENT !!!</font></font><br>
 <font>.   ✫   .  ˚  ✦  · </font><br>
 <font> .  +  · · <font color="#33a6ff"></font></font><br>
-<font>    ✹   . <font color="#008080">&nbsp;𝐻𝑒𝑦 𝐼'𝑚 𝑉𝑖𝑚𝑢𝑘𝑡𝒉𝑖 𝑂𝑠𝒉𝑎𝑑𝑎™</font></font><br>
+<font>    ✹   . <font color="#008080">&nbsp;™</font></font><br>
 <font>✦  · </font><br>
-<b>&nbsp;Powered by <font color="#ff5079">𝑂𝑠𝒉𝑎𝑑𝑎™</font></b><br>
+<b>&nbsp;Powered by <font color="#ff5079">rusiru</font></b><br>
 <font>     .  +  · </font>
 EOF
 
